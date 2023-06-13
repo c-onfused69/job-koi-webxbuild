@@ -36,8 +36,6 @@
     <!-------------Close Button----------------->
               <button type="button" class="btn-close btn-close-white shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
-
-            
             <div class="offcanvas-body">
               <ul class="navbar-nav justify-content-start flex-grow-1 pe-3">
                 <li class="nav-item">
@@ -51,18 +49,12 @@
                 <li class="nav-item dropdown">
                   <a class="nav-link active dropdown-none" href="pages/job-in-urcity.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">Jobs In your City</a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Dhaka</a></li>
+                    <!---<li><a class="dropdown-item" href="#">Dhaka</a></li>
                     <li><a class="dropdown-item" href="#">Chittagong</a></li>
-                    <li><a class="dropdown-item" href="#">Rajshahi</a></li>
-                    <li><a class="dropdown-item" href="#">Khulna</a></li>
-                    <li><a class="dropdown-item" href="#">Rangpur</a></li>
-                    <li><a class="dropdown-item" href="#">Barishal</a></li>
-                    <li><a class="dropdown-item" href="#">Sylhet</a></li>
-                    <li><a class="dropdown-item" href="#">Mymensingh</a></li>
                     <li>
                       <hr class="dropdown-divider">
                     </li>
-                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>--->
                   </ul>
                 </li>
 
@@ -113,12 +105,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h1 class="brand-intro">Welcome to <span style="color: #0C5156;">Job Koi</span>, your ultimate destination for finding your dream job!</h1>
-                        <p class="brand-desc">Are you tired of tirelessly searching for the perfect career opportunity? Look no further! At Job Koi, we are dedicated to connecting job seekers like you with a wide range of employment options that match your skills, aspirations, and interests.<br></br>
+                        <h1>Welcome to Job Koi, your ultimate destination for finding your dream job!</h1>
+                        <p>Are you tired of tirelessly searching for the perfect career opportunity? Look no further! At Job Koi, we are dedicated to connecting job seekers like you with a wide range of employment options that match your skills, aspirations, and interests.<br>
 
                             Whether you're an experienced professional, a recent graduate, or someone looking to make a career change, Job Koi has got you covered. Our user-friendly platform offers a seamless experience, making it easier than ever to navigate through a vast array of job listings from leading companies and organizations.</p>
                     </div>
-                    
                 </div>
             </div>
             
@@ -126,15 +117,15 @@
       
 
     
-    <!-----------------------CONTACT SECTION------------------------------------------------------------------>
+    <!-----------------------CONTACT SECTION--------------------------------------------------------------
 
 <div id="contact">
     <div class="container">
         <div class="row">
             <div class="cont-left">
                 <h1 class="Sub-tittle">Contact Us</h1>
-                <p><i class="fa-solid fa-paper-plane" style="color: #86CFDE;"></i> example123@gmail.com</p>
-                <p><i class="fa-solid fa-square-phone" style="color: #86CFDE;"></i> +8801234567890</p>
+                <p><i class="fa-solid fa-paper-plane" style="color: #BFD5DB;"></i> example123@gmail.com</p>
+                <p><i class="fa-solid fa-square-phone" style="color: #BFD5DB;"></i> +8801234567890</p>
                 <div class="socialmedia-icons">
                     <a href=""><i class="fa-brands fa-facebook"></i></a>
                     <a href="https://github.com/c-onfused69"><i class="fa-brands fa-github"></i></a>
@@ -160,11 +151,11 @@
         </div>
         
     </div>
-    <!-----------------------COPYRIGHT SECTION-------------------------------------------------------------------->
+    <!-----------------------COPYRIGHT SECTION---------------------------------------------------------------
     <div class="copyright">
         <p>Copyright ©️ Md. Nahijul Islam Niloy. <i class="fa-solid fa-heart fa-beat"></i></p>
     </div>
-</div>
+</div>----->
     
     
 

@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('../images/BG1.jpeg');
+  }
+  .logo{
+    padding: 0;
+    margin: 20px 20px;
+    width: 140px;
+}
+  .container {
+    max-width: 800px;
+    margin: 1% auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+  }
+  
+  p {
+    color: #fff;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  

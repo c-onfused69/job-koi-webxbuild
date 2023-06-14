@@ -79,9 +79,6 @@ body{
   background-color: rgb(174, 232, 244, 0.5%);
   backdrop-filter: blur(10px);
 }
-.dropdown-item{
-  color: #fff;
-}
   
   /*-----------------------Hero SECTION--------------------------------------------------------------------*/
   #hero-section{
@@ -140,7 +137,7 @@ body{
     transition: transform 0.5s;
   }
   .socialmedia-icons a:hover {
-    color: #eb6e1f;
+    color: #145659;
     transform: translateY(-5px);
   }
   .button {
